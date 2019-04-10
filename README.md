@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Hello world, I am Beth Naylor.  
+Hello world, I am Beth Naylor.  I like dogs 
